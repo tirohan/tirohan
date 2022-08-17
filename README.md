@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **tanbinirohan@gmail.com**
 
-- ⚡ Fun fact **People think I must try Standup Comedy in my life.**
+- ⚡ Fun fact **People think I must try Standup Comedy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
