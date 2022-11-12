@@ -23,8 +23,6 @@
 <p align="left">
 <a href="https://twitter.com/tanbinrohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanbinrohan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanbin islam rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanbin islam rohan" height="30" width="40" /></a>
-<a href="https://kaggle.com/tanbin islam rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanbin islam rohan" height="30" width="40" /></a>
-<a href="https://fb.com/tanbin islam rohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanbin islam rohan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tanbinirohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tanbinirohan" height="30" width="40" /></a>
 </p>
 
