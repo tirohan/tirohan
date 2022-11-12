@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Text Based Recommendation System]
 
-- 👨‍💻 All of my projects are available at [https://github.com/tirohan](https://github.com/tirohan)
+- 👨‍💻 All of my projects are available at [https://github.com/tirohan]([https://github.com/tirohan](https://github.com/tirohan?tab=repositories))
 
 - 💬 Ask me about **#datascience, #dataanlytics, #deeplearning, #machinelearning, and #naturallanguageprocessing**
 
