@@ -98,9 +98,8 @@
 ### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tirohan/tirohan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirohan&theme=tokyo-night&bg_color=1a1b27&hide_border=true" width="100%"/>
 </div>
-
 *Note: Snake animation will appear after the GitHub Action runs successfully*
 
 ---
