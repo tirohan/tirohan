@@ -39,48 +39,6 @@
 
 ---
 
-## 🚀 **MISSION CRITICAL PROJECTS**
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 🏥 **VRFallNet**
-```yaml
-status: DEPLOYED
-type: Computer Vision AI
-```
-**Neural fall detection system**  
-*TensorFlow • OpenCV • Unity*
-
-</td>
-<td align="center" width="33%">
-
-### 📊 **DataParser.AI**
-```yaml
-status: ACTIVE
-type: Document Intelligence
-```
-**Autonomous data extraction**  
-*Python • NLP • FastAPI • PostgreSQL*
-
-</td>
-<td align="center" width="33%">
-
-### 💳 **CreditScore.AI**
-```yaml
-status: PRODUCTION
-type: Risk Assessment
-```
-**IoT-powered credit analysis**  
-*Scikit-learn • AWS • IoT Sensors*
-
-</td>
-</tr>
-</table>
-
----
-
 ## ⚡ **NEURAL ARCHITECTURE**
 
 <div align="center">
