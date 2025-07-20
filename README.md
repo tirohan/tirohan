@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ TANBIN ISLAM ROHAN ⚡
-### `< SENIOR AI ENGINEER />` • `< LLM ARCHITECT />` • `< SYSTEM DESIGNER />`
+### `< SENIOR AI ENGINEER />` • `< AI SYSTEM ARCHITECT />` • `< SYSTEM DESIGNER />`
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════════╗
@@ -26,11 +26,12 @@
 
 ## 🌟 **[NEURAL_NETWORK_STATUS]** 🌟
 ```
-🧠 CURRENT_MISSION    >> AI Credit Scoring & IoT Time Series Analysis
-🔬 RESEARCH_MODE      >> MLOps • LLMOps • Cybersecurity 
-🤖 SPECIALIZATION     >> LLMs • Generative AI • Multi-Agent Systems
-🤝 COLLABORATION      >> Content-based Recommender Systems
-💡 KNOWLEDGE_BASE     >> #AI #ML #DL #NLP #GenerativeAI
+🧠 CURRENT_MISSION    >> Agentic AI Systems & Advanced RAG Architectures
+🔬 RESEARCH_MODE      >> LLMOps • AISecOps • Quantum ML • Edge AI
+🤖 SPECIALIZATION     >> Multi-Modal LLMs • AI Agents • Retrieval Systems
+🚀 INNOVATION_FOCUS   >> Vision-Language Models • AI Safety • Prompt Engineering
+🤝 COLLABORATION      >> Neural Architecture Search • Federated Learning
+💡 KNOWLEDGE_BASE     >> #LLMOps #AIAgents #RAG #MultiModal #QuantumML
 📡 TRANSMISSION       >> tanbinirohan@gmail.com
 ```
 
@@ -87,20 +88,92 @@ type: Risk Assessment
 ### 🔥 **CORE SYSTEMS**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=000000)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=000000)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white&labelColor=000000)
 
 ### 🤖 **AI NEURAL NETWORK**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)
+![Anthropic](https://img.shields.io/badge/Anthropic-8B4513?style=for-the-badge&logoColor=white&labelColor=000000)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white&labelColor=000000)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white&labelColor=000000)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logoColor=white&labelColor=000000)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black&labelColor=000000)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white&labelColor=000000)
+![JAX](https://img.shields.io/badge/JAX-FF6F61?style=for-the-badge&logoColor=white&labelColor=000000)
+
+### 🧠 **LLM & GENERATIVE AI**
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)
+![Claude](https://img.shields.io/badge/Claude-8B4513?style=for-the-badge&logoColor=white&labelColor=000000)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=000000)
+![Llama](https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white&labelColor=000000)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logoColor=white&labelColor=000000)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-000000?style=for-the-badge&logoColor=white&labelColor=000000)
+![DALL·E](https://img.shields.io/badge/DALL·E-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logoColor=white&labelColor=000000)
+
+### 🔍 **RAG & VECTOR DATABASES**
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white&labelColor=000000)
+![Weaviate](https://img.shields.io/badge/Weaviate-00D4AA?style=for-the-badge&logoColor=white&labelColor=000000)
+![Chroma](https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge&logoColor=white&labelColor=000000)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logoColor=white&labelColor=000000)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white&labelColor=000000)
+![Milvus](https://img.shields.io/badge/Milvus-00D4AA?style=for-the-badge&logoColor=white&labelColor=000000)
 
 ### ⚙️ **DEPLOYMENT MATRIX**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=000000)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000000)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white&labelColor=000000)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=000000)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white&labelColor=000000)
+
+### 🚀 **MLOps & LLMOps**
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=000000)
+![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black&labelColor=000000)
+![Neptune](https://img.shields.io/badge/Neptune-1F4E79?style=for-the-badge&logoColor=white&labelColor=000000)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logoColor=white&labelColor=000000)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logoColor=white&labelColor=000000)
+![Comet](https://img.shields.io/badge/Comet-262626?style=for-the-badge&logoColor=white&labelColor=000000)
+
+### 🌐 **INTERFACE LAYER**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000000)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=000000)
+![Gradio](https://img.shields.io/badge/Gradio-FFA500?style=for-the-badge&logoColor=white&labelColor=000000)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=000000)
+
+### 🗄️ **DATABASE MATRIX**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white&labelColor=000000)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black&labelColor=000000)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=000000)
+
+### 🔐 **SECURITY & MONITORING**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=000000)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=000000)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white&labelColor=000000)
+![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white&labelColor=000000)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white&labelColor=000000)
+
+### ⚡ **EDGE & QUANTUM**
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=000000)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=000000)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=000000)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white&labelColor=000000)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=000000)
 
 ### 🌐 **INTERFACE LAYER**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)
