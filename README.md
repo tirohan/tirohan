@@ -98,8 +98,10 @@
 ### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tirohan/tirohan/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/tirohan/tirohan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+*Note: Snake animation will appear after the GitHub Action runs successfully*
 
 ---
 
@@ -113,7 +115,7 @@
 
 <div align="center">
   
-  [![Profile Views](https://visitcount.itsvg.in/api?id=tirohan&icon=0&color=1)](https://visitcount.itsvg.in)
+  [![Profile Views](https://komarev.com/ghpvc/?username=tirohan&color=blueviolet&style=flat)](https://github.com/tirohan)
   
   *"The future belongs to those who understand that artificial intelligence is not about replacing human intelligence, but augmenting it."*
   
