@@ -100,7 +100,6 @@ currently_building:
 - **VRFallNet** — fall risk prediction and prevention using integrated HMD and controller sensors
 - **Digital Twin for VR Balance** — modeling user state and adaptive feedback for safer immersive experiences
 
-> Replace these with repository links once you decide which repos you want to feature.
 
 ---
 
@@ -108,7 +107,7 @@ currently_building:
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=tirohan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirohan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirohan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=Jupyter%20Notebook,HTML,CSS&cache_seconds=1800" alt="Top languages" />
 </div>
 
 <div align="center">
