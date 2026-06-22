@@ -1,9 +1,9 @@
 <div align="center">
 
 # Tanbin Islam Rohan
-### AI Engineer • LLM Systems Builder • XR/VR Researcher
+### AI Engineer • LLM Systems Builder • AI System Architect
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+LLM+systems+that+ship;Designing+multi-agent+AI+architectures;Working+at+the+intersection+of+AI%2C+XR%2C+and+research" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+AI+systems+that+ship;Designing+multi-agent+AI+architectures;Working+at+the+intersection+of+AI%2C+XR%2C+and+research" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanbinislamrohan)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tanbinirohan)
@@ -16,13 +16,13 @@
 
 ## /about_me
 
-I build **production-oriented AI systems** and work on **research-driven intelligent interfaces** across **LLMs, RAG, agentic workflows, multimodal AI, and XR/VR environments**.
+I build **production-oriented AI systems** and work on **research-driven intelligent interfaces** across **LLMs, RAG, agentic workflows, multimodal AI environments**.
 
 My work focuses on:
 - designing **multi-agent AI systems**
 - building **RAG and knowledge workflows**
 - developing **LLM-powered applications and APIs**
-- exploring **multimodal sensing and prediction in immersive VR**
+- exploring **multimodal AI systems in immersive technologies**
 
 I like turning complex ideas into systems that are **usable, scalable, and cleanly engineered**.
 
@@ -37,13 +37,12 @@ interests:
   - Agentic AI
   - RAG Systems
   - Multimodal AI
-  - XR / VR Intelligence
   - Applied Machine Learning
 currently_building:
   - multi-agent AI platforms
   - retrieval and reasoning pipelines
   - production FastAPI backends
-  - intelligent XR/VR research systems
+  - intelligent ML/DL research systems
 ``` 
 
 ---
@@ -98,7 +97,7 @@ currently_building:
 ### Research
 - **PatchFusionVR** — multitask prediction of gaze, reaction time, and cognitive load in virtual reality
 - **VRFallNet** — fall risk prediction and prevention using integrated HMD and controller sensors
-- **Digital Twin for VR Balance** — modeling user state and adaptive feedback for safer immersive experiences
+- **Digital Twin for Healthcare AI Systems** — modeling user state and adaptive feedback for safer immersive experiences
 
 
 ---
