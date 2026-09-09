@@ -79,12 +79,6 @@ currently_building:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white)
 
-### Research / XR
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![VR](https://img.shields.io/badge/VR-111827?style=flat-square&logo=oculus&logoColor=white)
-![AR](https://img.shields.io/badge/AR-0F172A?style=flat-square&logo=applearkit&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-2563EB?style=flat-square&logo=opencv&logoColor=white)
-
 ---
 
 ## /featured_work
@@ -137,7 +131,6 @@ I am always interested in collaborating on:
 - LLM applications
 - RAG and retrieval systems
 - agentic workflows
-- AI for XR/VR
 - research-to-production engineering
 
 📫 **Email:** tanbinirohan@gmail.com  
