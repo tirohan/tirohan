@@ -1,9 +1,11 @@
-name: Generate Snake
+name: Generate graphs once
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/generate-once.yml
 
 permissions:
   contents: write

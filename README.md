@@ -122,12 +122,12 @@ Contributed to a **$35K industry-funded healthcare AI collaboration with InComm 
 ## `06 // TELEMETRY`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tirohan&show_icons=true&rank_icon=percentile&bg_color=0B0F18&title_color=22D3EE&text_color=C5D7E8&icon_color=60A5FA&border_color=1F3347&ring_color=8B5CF6" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirohan&layout=compact&bg_color=0B0F18&title_color=22D3EE&text_color=C5D7E8&border_color=1F3347" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=tirohan&show_icons=true&rank_icon=percentile&bg_color=0B0F18&title_color=22D3EE&text_color=C5D7E8&icon_color=60A5FA&border_color=1F3347&ring_color=8B5CF6" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tirohan&layout=compact&bg_color=0B0F18&title_color=22D3EE&text_color=C5D7E8&border_color=1F3347" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirohan&bg_color=0B0F18&color=8FA9C2&line=22D3EE&point=60A5FA&area=true&hide_border=false&border_color=1F3347&title_color=22D3EE&custom_title=Contribution%20Signal" alt="Contribution activity" width="100%" />
+  <img src="https://raw.githubusercontent.com/tirohan/tirohan/main/dist/activity-graph.svg" alt="Contribution activity" width="100%" />
 </p>
 
 <p align="center">
