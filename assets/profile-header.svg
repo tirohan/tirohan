@@ -1,0 +1,60 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="20" x2="1120" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.55" stop-color="#0A1220"/>
+      <stop offset="1" stop-color="#0B0F18"/>
+    </linearGradient>
+    <linearGradient id="line" x1="220" y1="0" x2="980" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.22" stop-color="#22D3EE"/>
+      <stop offset="0.7" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#9CCFFB" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="318" rx="24" fill="url(#bg)" stroke="#1F3347" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="318" rx="24" fill="url(#grid)"/>
+
+  <path d="M36 58V28H66" stroke="#22D3EE" stroke-opacity="0.85" stroke-width="1.5" fill="none"/>
+  <path d="M1164 58V28H1134" stroke="#22D3EE" stroke-opacity="0.85" stroke-width="1.5" fill="none"/>
+  <path d="M36 262V292H66" stroke="#60A5FA" stroke-opacity="0.7" stroke-width="1.5" fill="none"/>
+  <path d="M1164 262V292H1134" stroke="#60A5FA" stroke-opacity="0.7" stroke-width="1.5" fill="none"/>
+
+  <circle cx="84" cy="36" r="3" fill="#22D3EE" filter="url(#glow)"/>
+  <text x="96" y="40" fill="#67E8F9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="600" letter-spacing="1.4">SYS.ONLINE</text>
+  <text x="1116" y="40" text-anchor="end" fill="#8FA9C2" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" font-weight="600" letter-spacing="1.2">KSU // mHealth</text>
+
+  <circle cx="92" cy="74" r="4" fill="#22D3EE" filter="url(#glow)"/>
+  <circle cx="1108" cy="246" r="4" fill="#60A5FA" filter="url(#glow)"/>
+  <path d="M40 72H250L292 114H432" stroke="#22D3EE" stroke-opacity="0.27" stroke-width="1.5"/>
+  <path d="M760 247H910L954 203H1160" stroke="#60A5FA" stroke-opacity="0.25" stroke-width="1.5"/>
+  <circle cx="250" cy="72" r="3" fill="#22D3EE"/>
+  <circle cx="954" cy="203" r="3" fill="#60A5FA"/>
+
+  <text x="600" y="92" text-anchor="middle" fill="#D8F7FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="700" letter-spacing="2">TANBIN ISLAM ROHAN</text>
+  <text x="600" y="132" text-anchor="middle" fill="#8FA9C2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="500" letter-spacing="0.8">AI ENGINEER  •  PHD RESEARCHER  •  AI SYSTEMS ARCHITECT</text>
+
+  <rect x="230" y="166" width="220" height="42" rx="21" fill="#0D2030" stroke="#22D3EE" stroke-opacity="0.55"/>
+  <text x="340" y="192" text-anchor="middle" fill="#67E8F9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600">LLM + AGENTIC SYSTEMS</text>
+
+  <rect x="470" y="166" width="260" height="42" rx="21" fill="#0D1A2A" stroke="#60A5FA" stroke-opacity="0.55"/>
+  <text x="600" y="192" text-anchor="middle" fill="#93C5FD" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600">HEALTHCARE + MULTIMODAL AI</text>
+
+  <rect x="750" y="166" width="220" height="42" rx="21" fill="#151529" stroke="#8B5CF6" stroke-opacity="0.55"/>
+  <text x="860" y="192" text-anchor="middle" fill="#C4B5FD" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600">RESEARCH TO PRODUCTION</text>
+
+  <rect x="200" y="241" width="800" height="2" rx="1" fill="url(#line)"/>
+  <text x="600" y="278" text-anchor="middle" fill="#7288A0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" letter-spacing="1">BUILDING INTELLIGENT SYSTEMS THAT ARE OBSERVABLE • SCALABLE • USEFUL</text>
+</svg>
